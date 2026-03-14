@@ -1,0 +1,41 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f4f4;
+}
+
+h1{
+margin-top:20px;
+}
+
+.cronometro{
+margin:20px;
+}
+
+#display{
+font-size:40px;
+margin:20px;
+}
+
+button{
+padding:10px 20px;
+margin:5px;
+font-size:16px;
+cursor:pointer;
+}
+
+table{
+margin:auto;
+border-collapse:collapse;
+width:60%;
+background:white;
+}
+
+th, td{
+border:1px solid #ccc;
+padding:10px;
+}
+
+th{
+background:#ddd;
+}
